@@ -24,7 +24,6 @@ document.addEventListener('click', (event) => {
   if (menu.open && !menu.contains(event.target)) menu.open = false;
 });
 
-const gallery = document.querySelector('.gallery-grid');
 const photoDialog = document.querySelector('.photo-dialog');
 
 if (typeof photoDialog.showModal === 'function') {
@@ -32,7 +31,7 @@ if (typeof photoDialog.showModal === 'function') {
   const dialogCaption = photoDialog.querySelector('figcaption');
   let trigger;
 
-  gallery.addEventListener('click', (event) => {
+  document.addEventListener('click', (event) => {
     const link = event.target.closest('.gallery-image');
     if (!link || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
 
