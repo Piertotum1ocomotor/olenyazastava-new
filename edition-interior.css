@@ -8,6 +8,7 @@
 }
 
 .edition-interior .body, .edition-interior #site-main { min-height: 0; }
+.edition-interior .body { margin-bottom: 0; }
 .edition-interior #site-main {
   --site-gutter: var(--edition-gutter);
   padding-bottom: clamp(32px, 6vw, 90px);
