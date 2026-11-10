@@ -1,0 +1,63 @@
+[hidden] { display: none !important; }
+.banners-big .flexslider { opacity: 1; }
+.flexslider .slides > li:first-child { display: block; }
+.banners-big .slides .text .inner { opacity: 1; }
+.banners-big .slides > li { background-color: #436d2c; }
+.banners-big .slides .text .inner { text-shadow: 0 1px 6px rgba(0,0,0,.65); }
+iframe { max-width: 100%; }
+img:not([src]) { visibility: hidden; }
+.restored-map { display: grid; min-height: 120px; place-items: center; background: #f2f5ec; }
+.restored-map a { padding: 12px 22px; }
+.restored-search { max-width: 760px; margin: 2rem auto; padding: 0 1rem; font: 16px/1.6 system-ui,sans-serif; }
+.restored-search a { color: #407700; }
+.restore-dialog { width: min(520px, calc(100% - 24px)); border: 0; padding: 28px 24px 20px; color: #333; background: #fff; }
+.restore-dialog::backdrop { background: rgba(0,0,0,.68); }
+.restore-close { position: absolute; top: 5px; right: 9px; border: 0; background: transparent; color: inherit; font: 27px/1 system-ui; cursor: pointer; }
+.restore-dialog.restore-photo { width: fit-content; max-width: 96vw; padding: 30px 12px 12px; }
+.restore-photo img { display: block; max-width: 88vw; max-height: 79vh; object-fit: contain; }
+.restore-photo-controls { display: flex; justify-content: space-between; gap: 24px; padding-top: 8px; }
+.restore-photo-controls button { background: #5baa00; color: #fff; border: 0; border-radius: 3px; padding: 6px 12px; }
+a[data-name=question], a[data-name=callback] { cursor: pointer; }
+#bookingModal .processing-block input { position: static; opacity: 1; margin: 4px 8px 0 0; display: inline-block; appearance: auto; }
+#bookingModal .processing-block label { display: inline; }
+#bookingModal .form-header, #bookingModal .form-body { padding: 0; }
+#bookingModal .form-header .title { margin-bottom: 8px; font-size: 24px; }
+#bookingModal .form-body { margin-top: 16px; }
+@media (max-width: 767px) {
+  header .nav-main-collapse.restore-open { display: block !important; }
+  header .nav-main-collapse.restore-open table, header .nav-main-collapse.restore-open tbody,
+  header .nav-main-collapse.restore-open tr, header .nav-main-collapse.restore-open td { display: block; width: 100%; }
+  header .nav-main-collapse.restore-open .wrap { display: block; width: 100%; }
+  header .nav-main-collapse.restore-open .wrap > a { display: block; padding: 9px 12px; }
+  header .nav-main-collapse.restore-open .dropdown-menu { display: none; }
+  .detail .content { overflow-wrap: anywhere; }
+  table { max-width: 100%; }
+  .detail table { display: block; overflow-x: auto; }
+}
+header .menu-row .mega-menu table td { visibility: visible; }
+header .menu-row .mega-menu table td:focus-within > .wrap > .dropdown-menu { display: block; }
+header .menu-row .mega-menu table .wrap > a { white-space: normal; }
+.detail .galery .item:not(.plans_block) { opacity: 1; }
+.restore-missing-image { background-color: #f3f5ef; }
+.banners-middle .item.restore-missing-image { background: #46682f; min-height: 150px; }
+@media (min-width: 768px) and (max-width: 1199px) {
+  header .menu-row .mega-menu table td .wrap > a,
+  header .menu-row .mega-menu table td .wrap .slide_wrapp a.link_first { padding-left: 7px; padding-right: 7px; font-size: 12px; }
+}
+@media (max-width: 767px) {
+  header .nav-main-collapse.restore-open table { display: none !important; }
+  header .nav-main-collapse.restore-open #mainMenu { display: block !important; }
+  header .mega-menu ul.nav li.resp-active > ul.dropdown-menu { display: block !important; }
+  #mainMenu .restore-submenu { position: absolute; right: 5px; top: 6px; padding: 6px 14px; border: 0; background: transparent; z-index: 2; font-size: 19px; color: #34452b; }
+  #mainMenu li.dropdown { position: relative; }
+}
+@media (max-width: 767px) {
+  body { overflow-x: hidden; }
+  #mainMenu { max-height: 72vh; overflow: auto; }
+}
+.main #instagram:empty { display: none; }
+.main_map_block .main_contacts { position: relative; top: auto; }
+.main_map_block .restored-map { min-height: 160px; }
+.banners-small .item img:not([src]) { width: 60px; height: 60px; }
+
+span.dark_block_animate { pointer-events: none; }

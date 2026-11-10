@@ -1,0 +1,546 @@
+[
+  {
+    "path": "index.html",
+    "title": "Оленья застава — загородный курорт на Каме"
+  },
+  {
+    "path": "catalog/index.html",
+    "title": "Проживание"
+  },
+  {
+    "path": "catalog/lesnye-domiki/index.html",
+    "title": "Коттеджи и номера"
+  },
+  {
+    "path": "catalog/lesnye-domiki/dvukhmestnyy-nomer-dzhunior-syut/index.html",
+    "title": "Двухместный номер Джуниор Сьют"
+  },
+  {
+    "path": "catalog/lesnye-domiki/dvukhmestnyy-nomer-ekonom/index.html",
+    "title": "Эконом номер"
+  },
+  {
+    "path": "catalog/lesnye-domiki/dvukhmestnyy-nomer-standart-uluchshennyy/index.html",
+    "title": "Двухместный номер Стандарт Улучшенный"
+  },
+  {
+    "path": "catalog/lesnye-domiki/dvukhmestnyy-nomer-standart/index.html",
+    "title": "Двухместный номер Стандарт"
+  },
+  {
+    "path": "catalog/lesnye-domiki/kottedzh-family-house/index.html",
+    "title": "Коттедж Family House"
+  },
+  {
+    "path": "catalog/lesnye-domiki/kottedzh-family-studio/index.html",
+    "title": "Коттедж Family Studio"
+  },
+  {
+    "path": "catalog/lesnye-domiki/mini-syut-2-kh-mestnyy-nomer/index.html",
+    "title": "Мини-сьют двухместный номер"
+  },
+  {
+    "path": "catalog/lesnye-domiki/mini-syut-chetyryekhmestnyy/index.html",
+    "title": "Мини-сьют четырёхместный"
+  },
+  {
+    "path": "company/index.html",
+    "title": "О компании"
+  },
+  {
+    "path": "company/5-prichin-pochemu-nas-vybirayut/index.html",
+    "title": "5 причин почему нас выбирают"
+  },
+  {
+    "path": "company/area/index.html",
+    "title": "Фотогалерея и схема участка"
+  },
+  {
+    "path": "company/o-pantakh/index.html",
+    "title": "О пантах"
+  },
+  {
+    "path": "company/reportazhi/index.html",
+    "title": "Репортажи"
+  },
+  {
+    "path": "company/requisites/index.html",
+    "title": "Реквизиты"
+  },
+  {
+    "path": "company/reviews/index.html",
+    "title": "Отзывы"
+  },
+  {
+    "path": "contacts/index.html",
+    "title": "Контакты"
+  },
+  {
+    "path": "events/index.html",
+    "title": "Оздоровительные программы"
+  },
+  {
+    "path": "events/ingalyatsii/index.html",
+    "title": "Ингаляции"
+  },
+  {
+    "path": "events/kedrovaya-bochka/index.html",
+    "title": "Кедровая бочка"
+  },
+  {
+    "path": "events/pantovaya-banya/index.html",
+    "title": "Пантовая баня"
+  },
+  {
+    "path": "events/pantovoe-obertyvanie/index.html",
+    "title": "Пантовое обертывание"
+  },
+  {
+    "path": "events/pantovye-vanny-v-period-srezki-pantov-na-maralnike-s-30-maya-po-12-iyulya-2026-goda/index.html",
+    "title": "Пантовые ванны в период срезки пантов на маральнике  с 1 июня  по 12 июля 2026 года"
+  },
+  {
+    "path": "events/pantovye-vanny-v-period-srezki-pantov-na-maralnike-s-31-maya-po-13-iyulya-2025-goda/index.html",
+    "title": "Оздоровительные программы"
+  },
+  {
+    "path": "events/pantovye-vanny-v-period-srezki-pantov-na-maralnike-s-31-maya-po-15-iyulya-2025-goda/index.html",
+    "title": "Оздоровительные программы"
+  },
+  {
+    "path": "events/pantovye-vanny/index.html",
+    "title": "Пантовые ванны сезона срезки 2025  года в Пермском крае как на Алтае"
+  },
+  {
+    "path": "events/pantovyy-chay/index.html",
+    "title": "Пантовый чай"
+  },
+  {
+    "path": "events/programma-ekspress-vosstanovlenie-2-nochi-3-dnya/index.html",
+    "title": "Программа «Экспресс–восстановление» 2 ночи/ 3 дня!"
+  },
+  {
+    "path": "events/programma-maksi-tonus-4-nochi-5-dney/index.html",
+    "title": "Программа «Макси–тонус» 4 ночи/ 5 дней!"
+  },
+  {
+    "path": "events/programma-molodost-i-stroynost-6-nochey-7-dney/index.html",
+    "title": "Программа «Молодость и стройность» 6 ночей /7 дней!"
+  },
+  {
+    "path": "events/programma-ppantosila-vosstanovlenie-i-ozdorovlenie-6-nochey-7-dney/index.html",
+    "title": "Программа «Пантосила — восстановление и оздоровление» 6 ночей /7 дней!"
+  },
+  {
+    "path": "events/programma-prirodnaya-sila-i-dolgoletie-6-nochey-7-dney/index.html",
+    "title": "Программа «Природная сила и долголетие» 6 ночей /7 дней!"
+  },
+  {
+    "path": "events/programma-sila-prirody-sezon-srezki-pantov-s-1-iyunya-po-12-iyulya-2026-kak-na-altae/index.html",
+    "title": "Программа \"Сила природы\" (сезон срезки пантов с 1 июня по 12 июля 2026) как на Алтае"
+  },
+  {
+    "path": "events/programma-sila-prirody-sezon-srezki-pantov-s-30-maya-po-12-iyulya-2026-kak-na-altae/index.html",
+    "title": "Программа \"Сила природы\" (сезон срезки пантов с 30 мая по 12 июля 2026) как на Алтае"
+  },
+  {
+    "path": "events/programma-sila-prirody-sezon-srezki-pantov-s-31-maya-po-13-iyulya-2025-kak-na-altae/index.html",
+    "title": "Оздоровительные программы"
+  },
+  {
+    "path": "events/programma-sila-prirody-sezon-srezki-pantov-s-31-maya-po-15-iyulya-2025-kak-na-altae/index.html",
+    "title": "Оздоровительные программы"
+  },
+  {
+    "path": "events/programma-zdorovye-sustavy-6-nochey-7-dney/index.html",
+    "title": "Программа «Здоровые суставы» 6 ночей /7 дней!"
+  },
+  {
+    "path": "galereya/index.html",
+    "title": "Галерея"
+  },
+  {
+    "path": "info/index.html",
+    "title": "Информация"
+  },
+  {
+    "path": "info/articles/index.html",
+    "title": "Статьи"
+  },
+  {
+    "path": "info/faq/index.html",
+    "title": "Вопросы и ответы"
+  },
+  {
+    "path": "info/more/index.html",
+    "title": "Возможности"
+  },
+  {
+    "path": "info/more/buttons/index.html",
+    "title": "Кнопки"
+  },
+  {
+    "path": "info/more/elements/index.html",
+    "title": "Визуальные элементы"
+  },
+  {
+    "path": "info/more/typograpy/index.html",
+    "title": "Оформление"
+  },
+  {
+    "path": "info/processing/index.html",
+    "title": "Соглашение на обработку персональных данных"
+  },
+  {
+    "path": "projects/index.html",
+    "title": "Проекты"
+  },
+  {
+    "path": "promo/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/10-12-iyulya-ozdorovitelnyy-iyul-v-oleney-zastave/index.html",
+    "title": "10 -12 Июля - Оздоровительный ИЮЛЬ в Оленьей заставе"
+  },
+  {
+    "path": "promo/11-14-iyunya-prazdnichno-ozdorovitelnyy-iyun-v-oleney-zastave/index.html",
+    "title": "11 -14 Июня - Празднично-Оздоровительный ИЮНЬ в Оленьей заставе"
+  },
+  {
+    "path": "promo/13-15-marta-teplaya-solnechnaya-vesna-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/14-16-avgusta-uyutnye-denechki-s-pantovymi-vannami-v-oleney-zastave/index.html",
+    "title": "14-16 Августа - Уютные денечки с пантовыми ваннами в Оленьей заставе"
+  },
+  {
+    "path": "promo/17-19-aprelya-teplaya-solnechnaya-vesna-v-oleney-zastave/index.html",
+    "title": "17-19 Апреля - Теплая солнечная Весна в Оленьей заставе"
+  },
+  {
+    "path": "promo/17-19-iyulya-prekrasnaya-seredina-leta-v-oleney-zastave/index.html",
+    "title": "17-19 Июля - Прекрасная середина лета в Оленьей заставе"
+  },
+  {
+    "path": "promo/19-21-iyunya-volshebnoe-leto-v-oleney-zastave/index.html",
+    "title": "19-21 Июня - Волшебное лето в Оленьей заставе"
+  },
+  {
+    "path": "promo/20-22-marta-vesennie-uyutnye-denechki-s-pantovymi-vannami-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/24-26-aprelya-teplaya-i-uyutnaya-vesna-v-oleney-zastave/index.html",
+    "title": "24-26 Апреля - Теплая и уютная Весна в Оленьей заставе"
+  },
+  {
+    "path": "promo/24-26-iyulya-letnyaya-skazka-v-oleney-zastave/index.html",
+    "title": "24-26 ИЮЛЯ - Летняя сказка в Оленьей заставе"
+  },
+  {
+    "path": "promo/27-29-marta-vesennyaya-skazka-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/30-aprelya-3-maya-vstrechaem-teplyy-may-v-oleney-zastave/index.html",
+    "title": "30 апреля - 3 мая - Встречаем теплый МАЙ в Оленьей заставе"
+  },
+  {
+    "path": "promo/31-iyulya-2-avgusta-vstretim-volshebnyy-avgust-v-oleney-zastave/index.html",
+    "title": "31 июля -2 Августа - Встретим Волшебный август в Оленьей заставе"
+  },
+  {
+    "path": "promo/5-7-iyunya-prekrasnoe-leto-i-sezon-zhivykh-pantovykh-vann-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/aktsiya-maya-2025-pantovye-protsedury-so-skidkoy-51/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/ekskursionnyy-tur-v-stranu-1000-altayskikh-oleney-s-obedom-na-kurorte-/index.html",
+    "title": "Экскурсионный тур в страну 1000 Алтайских оленей с обедом на курорте"
+  },
+  {
+    "path": "promo/ekskursiya-v-stranu-oleney/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/leto-v-olenyei-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/nedelnyy-otdykh-i-ozdorovlenie-v-oleney-zastave-s-letne-osenney-skidkoy-s-voskresenya-po-pyatnitsu/index.html",
+    "title": "Недельный и Двухнедельный Отдых и Оздоровление в Оленьей Заставе с зимне-весенней скидкой с Воскресенья по Пятницу"
+  },
+  {
+    "path": "promo/nedelnyy-otdykh-i-ozdorovlenie-v-oleney-zastave-s-osenney-skidkoy-s-voskresenya-po-pyatnitsu/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/nedelnyy-otdykh-v-oleney-zastave-so-skidkoy-20-v-period-s-14-iyulya-po-15-avgusta-2025-goda/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/nedelnyy-otdykh-v-oleney-zastave-so-skidkoy-do-20-v-period-s-14-iyulya-po-25-avgusta-2025-goda/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/noyabrskie-vykhodnye-/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/osennyaya-skazka-12-14-sentyabrya-s-pantovymi-vannami-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/otdokhnem-pered-shkoloy-29-avgusta-1-sentyabrya-v-olenya-zastava/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/otdykhay-seychas-plati-potom-/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/ozdorovitelnye-programmy-i-protsedury-na-osnove-pantov-altayskikh-maralov-svezhego-sezona-2024/index.html",
+    "title": "Оздоровительные программы и процедуры на основе пантов Алтайских маралов свежего сезона 2025"
+  },
+  {
+    "path": "promo/ozdorovitelnye-programmy-i-protsedury-na-osnove-pantov-altayskikh-maralov-svezhego-sezona-2026/index.html",
+    "title": "Оздоровительные программы и процедуры на основе пантов Алтайских маралов свежего сезона 2026"
+  },
+  {
+    "path": "promo/ozdorovitelnye-programmy-s-keshbekom-20/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/pantovye-vanny-v-permskom-krae-kak-na-altae-v-sezon-srezki-pantov-iyun-iyul-2026-/index.html",
+    "title": "Пантовые ванны в Пермском крае как на Алтае в сезон срезки пантов - июнь, июль 2026"
+  },
+  {
+    "path": "promo/pantovyy-ozdorovitelnyy-sezon-17-20-iyulya-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/prazdnik-vesny-6-9-marta-dlya-vsekh-zhenshchin-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/prekrasnoe-teploe-leto-1-3-avgusta-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/programma-ekspress-vosstanovlenie-2-nochi-3-dnya-svezhiy-sezon-2024-kak-na-altae/index.html",
+    "title": "Программа «Экспресс–восстановление» 2 ночи/ 3 дня свежий сезон 2025 как на Алтае!"
+  },
+  {
+    "path": "promo/programma-ekspress-vosstanovlenie-2-nochi-3-dnya-svezhiy-sezon-2026-kak-na-altae/index.html",
+    "title": "Программа «Экспресс–восстановление» 2 ночи/ 3 дня свежий сезон 2026 как на Алтае!"
+  },
+  {
+    "path": "promo/programma-pantosila-vosstanovlenie-i-ozdorovlenie-6-nochey-7-dney-svezhiy-sezon-2024-kak-na-altae/index.html",
+    "title": "Программа «Пантосила - восстановление и оздоровление» 6 ночей 7 дней свежий сезон 2026 как на Алтае!"
+  },
+  {
+    "path": "promo/s-11-po-15-iyunya-prazdnichno-ozdorovitelnyy-iyun-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/semeynyy-otdykh-so-skidkoy/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/sentyabr-dekabr-otdykh-v-oleney-zastave-so-skidkoy-do-20-v-period-s-24-avgusta-po-20-dekabrya-2025-g/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/skazochnyy-avgust-15-17-avgusta-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/skazochnyy-avgust-22-24-avgusta-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/spec2/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/teplyy-avgust-v-oleney-zastave-15-18-avgusta-/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/teplyy-solnechnyy-oktyabr-11-13-oktyabrya-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/teplyy-solnechnyy-sentyabr-26-28-sentyabrya-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/vesennyaya-skazka-s-21-23-marta-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/volshebnaya-vesna-s-23-25-maya-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/volshebnoe-leto-8-10-avgusta-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/volshebnoe-leto-s-24-po-27-iyulya-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/vstrechaem-teplyy-iyun-s-30-maya-1-iyunya-s-oleney-zastavoy/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "promo/vstretit-novyy-god-2026-ognennoy-loshadi-k-udache-v-oleney-zastave/index.html",
+    "title": "Спецпредложения"
+  },
+  {
+    "path": "services/index.html",
+    "title": "Услуги"
+  },
+  {
+    "path": "services/ozdorovitelnye-protsedury/index.html",
+    "title": "Услуги"
+  },
+  {
+    "path": "services/rybalka-okhota-dosug/index.html",
+    "title": "Досуг"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/chai/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/chai/chay-altayskiy-moguchiy-maral/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/chai/chay-koporskiy-s-myatoy/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/chai/chay-travyanoy-firmennyy-olenya-zastava/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/konina/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/konina/kolbasa-syrovyalenaya-iz-koniny-parma/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/balyk-syrovyalenyy-iz-oleniny-parma-kuskom/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/balyk-syrovyalenyy-iz-oleniny-parma-narezka/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/khamon-syrovyalenyy-iz-oleniny-parma-kuskom/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/khamon-syrovyalenyy-iz-oleniny-parma-narezka/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/olenina/kolbasa-syrovyalenaya-iz-oleniny-parma/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/fitodobavka-k-pantovoy-vanne/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/pantokrin/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/pantovaya-muka-pantosila-50-g/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/panty-na-medu/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/shokolad-s-maralim-kornem-i-pantogematogenom/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/shokolad-s-pantogematogenom/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/pantovaya-prod/slaysy-pantovye/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/upakovka/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/upakovka/podarochnaya-upakovka/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/upakovka/podarochnyy-paket/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/varenie/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/varenie/varene-iz-brusniki/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "tovary-sobstvennogo-proizvodstva/varenie/varene-zemlyanichnoe/index.html",
+    "title": "Товары собственного производства"
+  },
+  {
+    "path": "yuridicheskie-dokumenty/politiki-obrabotki-personalnykh-dannykh/index.html",
+    "title": "Политики обработки персональных данных"
+  },
+  {
+    "path": "yuridicheskie-dokumenty/publichnaya-oferta/index.html",
+    "title": "Публичная оферта"
+  },
+  {
+    "path": "yuridicheskie-dokumenty/soglashenie-o-cookie/index.html",
+    "title": "Соглашение о cookie"
+  },
+  {
+    "path": "yuridicheskie-dokumenty/soglasie-na-obrabotku-personalnykh-dannykh/index.html",
+    "title": "Согласие на обработку персональных данных"
+  },
+  {
+    "path": "yuridicheskie-dokumenty/soglasie-na-reklamnye-i-informatsionnye-rassylki/index.html",
+    "title": "Согласие на рекламные и информационные рассылки"
+  }
+]

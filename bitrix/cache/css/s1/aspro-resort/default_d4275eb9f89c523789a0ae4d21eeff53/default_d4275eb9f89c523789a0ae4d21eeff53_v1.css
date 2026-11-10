@@ -1,0 +1,43 @@
+
+
+/* Start:/bitrix/templates/aspro-resort/components/bitrix/map.yandex.system/.default/style.css?1614007903666*/
+div.bx-yandex-map {color: black; font-size: 11px;}
+div.bx-yandex-map div.YMaps-b-balloon-content {color: black; font-size: 11px;}
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td {
+	padding: 0px !important;
+}
+
+
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td textarea{
+	font-size: 11px;
+}
+
+
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td.YMaps-b-balloon-b {
+	background-image: none !important;
+}
+
+/* End */
+/* /bitrix/templates/aspro-resort/components/bitrix/map.yandex.system/.default/style.css?1614007903666 */
+
+/*
+     FILE ARCHIVED ON 18:31:00 Jun 08, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:15:40 Nov 09, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.429
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.061
+  esindex: 0.006
+  cdx.remote: 18.187
+  LoadShardBlock: 190.838 (3)
+  PetaboxLoader3.datanode: 135.697 (5)
+  PetaboxLoader3.resolve: 135.871 (2)
+  load_resource: 230.611
+  loaddict: 106.663
+*/
